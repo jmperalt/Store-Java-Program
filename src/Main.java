@@ -1,10 +1,10 @@
 //***********************************************************************************
-// YOUR NAME: Jayson M. Peralta
+// YOUR NAME: 
 // COURSE TITLE: Advanced Object-Oriented Programming with Java (and C++/C)
 // COURSE NUMBER: CIS 357
-// PROF NAME: Il-Hyung Cho
+// PROF NAME: 
 // ASSIGNMENT NUMBER: Homework 2
-// DUE DATE: 05/19/2020
+// DUE DATE: 
 // POSSIBLE POINTS: 100 Points
 // PURPOSE: This java program that prompts user to enter Y/(y) or N/(n) for new sale.
 // Then, it ask the user to enter for the product code, then print the item name.
