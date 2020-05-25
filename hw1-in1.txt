@@ -1,0 +1,9 @@
+A001,corn_dog,1.25
+B002,candy,0.98
+B003,chocolate,1.79
+B004,gum,0.45
+C005,soda,1.29
+C006,orange_juice,1.39
+C007,bottle_water,0.89
+A008,popcorn,1.50
+A009,pretzel,2.35

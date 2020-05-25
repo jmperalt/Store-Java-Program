@@ -1,0 +1,9 @@
+----------------------------
+Items list:
+         2 corn_dog        $2.50
+         2 candy           $1.96
+
+Subtotal $4.46
+Total with Tax (6%) $ 4.73
+Tender Amount: 5.0
+Change $ 0.27

@@ -1,0 +1,18 @@
+----------------------------
+Items list:
+         8 popcorn         $12.00
+
+Subtotal $12.00
+Total with Tax (6%) $ 12.72
+Tender Amount: 13.0
+Change $ 0.28
+----------------------------
+Items list:
+         5 soda            $6.45
+
+Subtotal $6.45
+Total with Tax (6%) $ 6.84
+Tender Amount: 7.0
+Change $ 0.16
+
+The total sale for the day is $ 13.67
